@@ -1,4 +1,4 @@
 # Array
+## Treinando com o git
 
-
-# Treinando com o git
+* comando git push
