@@ -3,3 +3,4 @@
 
 * comando git push
 * nova alteração
+* comando git  fach
